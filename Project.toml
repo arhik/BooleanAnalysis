@@ -1,0 +1,4 @@
+name = "BooleanAnalysis"
+uuid = "122dee34-a50e-481f-a56f-63620fc8b590"
+authors = ["arhik <arhik23@gmail.com>"]
+version = "0.1.0"
